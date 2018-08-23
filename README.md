@@ -4,7 +4,7 @@ Piscine暑期密集訓練共有8周，學員須完成每周給予Coding任務。
 
 每周三早上9:00~12:00 (三小時)在電腦教室線上測驗
 
-*Level 0任務
+##Level 0任務
 Week 1 (Jul.  5 ~ Jul. 11)：Basic, Selection
 https://drive.google.com/open?id=1VKFTKNiMiByunA0Kk0lUnjsEKcOao02H​
 
@@ -29,7 +29,7 @@ https://drive.google.com/open?id=1Q0Gg25g5VluHLg5GSxOCeo2dDWFog2nJ​
 
 Week 8 (Aug. 23 ~ Aug. 29)：Web Application
 
-*Level 1任務
+##Level 1任務
 Week 1 (Jul.  5 ~ Jul. 11)：Array, String, Search, Sort
 https://drive.google.com/open?id=1_pHXVmJDe8cJcMMeKBp2Jp0ggzp8Mlfe​
 
@@ -52,7 +52,7 @@ Week 7 (Aug. 16 ~ Aug. 22)：Machine Learning
 
 Week 8：Cloud
 
-*Level 2任務
+##Level 2任務
 Week 1 (Jul.  5 ~ Jul. 11)：Data Structure
 https://drive.google.com/open?id=1YDTdhj8KsXFThGNhaSaQrKGOpfGO6zvl​
 
